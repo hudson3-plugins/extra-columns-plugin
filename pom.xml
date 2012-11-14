@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.eclipse.hudson.plugins</groupId>
+    <artifactId>hudson-plugin-parent</artifactId>
+    <version>3.0.0-RC4</version>
+  </parent>
+  
+  <groupId>org.hudsonci.plugins</groupId>
+  <artifactId>extra-columns</artifactId>
+  <packaging>hpi</packaging>
+  <version>1.6-h-1-SNAPSHOT</version>
+  <name>Extra Columns Plugin</name>
+  <url>http://wiki.hudsonci.org/display/HUDSON/Extra+Columns+Plugin</url>
+  
+  <developers>
+    <developer>
+      <id>fredg</id>
+      <name>Fred G.</name>
+    </developer>
+  </developers>
+  
+  <scm>
+    <connection>scm:git:git://github.com/hudson3-plugins/extra-columns.git</connection>
+    <developerConnection>scm:git:git@github.com:hudson3-plugins/extra-columns.git</developerConnection>
+    <url>https://github.com/hudson3-plugins/extra-columns</url>
+  </scm>
+  
+  <licenses>
+    <license>
+      <name>The MIT license</name>
+      <url>http://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+</project>

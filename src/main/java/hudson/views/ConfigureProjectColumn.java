@@ -30,6 +30,7 @@ import hudson.model.Hudson;
 import hudson.util.VersionNumber;
 import hudson.views.ListViewColumn;
 import hudson.views.ListViewColumnDescriptor;
+import hudson.views.extra.Messages;
 
 public class ConfigureProjectColumn extends ListViewColumn {
 

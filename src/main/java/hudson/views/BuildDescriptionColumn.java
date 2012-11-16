@@ -30,6 +30,7 @@ import hudson.Extension;
 import hudson.model.Job;
 import hudson.views.ListViewColumnDescriptor;
 import hudson.views.ListViewColumn;
+import hudson.views.extra.Messages;
 
 public class BuildDescriptionColumn extends ListViewColumn {
 

@@ -13,6 +13,7 @@
   <version>1.6-h-1-SNAPSHOT</version>
   <name>Extra Columns Plugin</name>
   <url>http://wiki.hudsonci.org/display/HUDSON/Extra+Columns+Plugin</url>
+  <description>Add view columns Build Description, Project Description, etc.</description>
   
   <developers>
     <developer>

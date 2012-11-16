@@ -28,6 +28,7 @@ import org.kohsuke.stapler.DataBoundConstructor;
 import hudson.Extension;
 import hudson.views.ListViewColumn;
 import hudson.views.ListViewColumnDescriptor;
+import hudson.views.extra.Messages;
 
 public class DisableProjectColumn extends ListViewColumn {
 

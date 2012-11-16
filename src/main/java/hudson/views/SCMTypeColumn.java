@@ -31,6 +31,7 @@ import hudson.model.AbstractProject;
 import hudson.model.Job;
 import hudson.views.ListViewColumnDescriptor;
 import hudson.views.ListViewColumn;
+import hudson.views.extra.Messages;
 
 public class SCMTypeColumn extends ListViewColumn {
 

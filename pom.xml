@@ -10,7 +10,7 @@
   <groupId>org.hudsonci.plugins</groupId>
   <artifactId>extra-columns</artifactId>
   <packaging>hpi</packaging>
-  <version>1.6-h-1-SNAPSHOT</version>
+  <version>1.6-h-1</version>
   <name>Extra Columns Plugin</name>
   <url>http://wiki.hudsonci.org/display/HUDSON/Extra+Columns+Plugin</url>
   <description>Add view columns Build Description, Project Description, etc.</description>

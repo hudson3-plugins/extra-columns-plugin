@@ -29,6 +29,6 @@
         <p>${%This column shows node name on which job last build was run.}</p>
     </f:block>
     <f:entry field="showAbsentNodeInfo">
-      <f:checkbox title="{%Show node label, even if node cannot be found}"/>
+      <f:checkbox title="${%Show node label, even if node cannot be found}"/>
     </f:entry>
 </j:jelly>
